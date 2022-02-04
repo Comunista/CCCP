@@ -1,1 +1,1 @@
-print("hola mundo esa vaina")
+print("me chupan un huevo")
