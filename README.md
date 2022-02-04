@@ -1,2 +1,2 @@
 # CCCP
-bienvenido al mundodel repo 
+bienvenido al mundo del repo 
